@@ -1,4 +1,4 @@
-Examples of machine learning projects
+##Examples of machine learning projects
 
 This repo aims at introducing machine learning with real-world applications. 
 
