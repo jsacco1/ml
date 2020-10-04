@@ -12,3 +12,5 @@ Install the project:
 
 	virtualenv -p python3 venv
 	source venv/bin/activate
+
+## Deep Learning with Pima Natives Diabetes Dataset
